@@ -2,10 +2,11 @@
 Выполнили студенты группы П25-2.1. Карпухин Дмитрий и Есин Данила
 Одномерные массивы в C#, класс System.Array и модульная консольная RPG
 ---
-    <picture> <img src="screen/1.png"> 
-    </picture>
-    <picture> <img src="screen/2.png"> 
-    </picture>
+<picture> <img src="screen/1.png"> 
+</picture>
+
+<picture> <img src="screen/2.png"> 
+</picture>
 
     
     using System;
